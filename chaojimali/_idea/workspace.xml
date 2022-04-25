@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610afce3-3490-4485-8b58-403099eed63e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26HfsnQBNdymt6Q1RVXKLUruiv8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chaojimali\src\images" />
+      <recent name="D:\chaojimali\src\Muisc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.MyFrame" />
+      <module name="chaojimali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MyFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610afce3-3490-4485-8b58-403099eed63e" name="Changes" comment="" />
+      <created>1647085649307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647085649307</updated>
+      <workItem from="1647085650972" duration="1694000" />
+      <workItem from="1647087395322" duration="1344000" />
+      <workItem from="1647148128838" duration="4484000" />
+      <workItem from="1647159303622" duration="10008000" />
+      <workItem from="1647172841596" duration="2839000" />
+      <workItem from="1647248601977" duration="1591000" />
+      <workItem from="1647329672298" duration="13131000" />
+      <workItem from="1647421153743" duration="4957000" />
+      <workItem from="1647432010286" duration="5132000" />
+      <workItem from="1647693689496" duration="683000" />
+      <workItem from="1647767286842" duration="330000" />
+      <workItem from="1647767975787" duration="70000" />
+      <workItem from="1647773777989" duration="727000" />
+      <workItem from="1648026954043" duration="895000" />
+      <workItem from="1648082424809" duration="85000" />
+      <workItem from="1648177330980" duration="1237000" />
+      <workItem from="1648639343449" duration="7091000" />
+      <workItem from="1648726366670" duration="5194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sxt/MyFrame.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
